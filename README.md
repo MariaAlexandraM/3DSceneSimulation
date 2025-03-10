@@ -6,7 +6,7 @@ The project focuses on realism and interactive control, allowing users to naviga
 
 ## Purpose
 The main goal is to generate a photorealistic representation of a farm landscape, where users can explore using mouse and keyboard controls.
-The scene includes: farm structures, animals, natural elements; open sourced 3d ojects, with reference links in the documentation.
+The scene includes: farm structures, animals, natural elements; open sourced 3d ojects, with reference links in the documentation ([`Doc.pdf`](Doc.pdf)).
 
 ## Features
 - 3D Object Rendering: Models loaded dynamically.
